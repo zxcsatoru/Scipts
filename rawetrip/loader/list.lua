@@ -43,6 +43,17 @@
 },
 
 {
+  update = "30.04.2022",
+  author = "Klient#1690", 
+  
+  name = "Necron", 
+  
+  link = "https://raw.githubusercontent.com/kl1ent/CS-GO-Scripting/main/rawetrip/Necron/Necron.lua", 
+  
+  aviable = true
+},
+
+{
   class = 2,
   
   update = "03.06.2022",
