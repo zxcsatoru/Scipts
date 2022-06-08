@@ -80,4 +80,4 @@
   link = "https://raw.githubusercontent.com/kl1ent/CS-GO-Scripting/main/rawetrip/otherP/essentials.lua",
   
   aviable = false
-}
+},
