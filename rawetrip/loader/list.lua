@@ -10,17 +10,6 @@
 },
 
 {
-  update = "25.03.2022",
-  author = "Klient#1690",
-  
-  name = "Solus UI 2", 
-  
-  link = "https://raw.githubusercontent.com/kl1ent/CS-GO-Scripting/main/rawetrip/Solus%20UI/Solus%20UI.lua", 
-  
-  aviable = false
-},
-
-{
   update = "30.04.2022",
   author = "Klient#1690", 
   
