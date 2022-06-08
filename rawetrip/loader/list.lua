@@ -10,6 +10,17 @@
 },
 
 {
+  update = "25.03.2022",
+  author = "Klient#1690",
+  
+  name = "Solus UI 2", 
+  
+  link = "https://raw.githubusercontent.com/kl1ent/CS-GO-Scripting/main/rawetrip/Solus%20UI/Solus%20UI.lua", 
+  
+  aviable = false
+},
+
+{
   update = "30.04.2022",
   author = "Klient#1690", 
   
@@ -43,17 +54,6 @@
 },
 
 {
-  update = "30.04.2022",
-  author = "Klient#1690", 
-  
-  name = "Necron", 
-  
-  link = "https://raw.githubusercontent.com/kl1ent/CS-GO-Scripting/main/rawetrip/Necron/Necron.lua", 
-  
-  aviable = true
-},
-
-{
   class = 2,
   
   update = "03.06.2022",
@@ -79,16 +79,4 @@
   link = "https://raw.githubusercontent.com/kl1ent/CS-GO-Scripting/main/rawetrip/otherP/essentials.lua", 
   
   aviable = true
-},
-
-{
-  class = 4,
-  update = "08.06.2022",
-  author = "test",
-  
-  name = "Test 1",
-  
-  link = "https://raw.githubusercontent.com/kl1ent/CS-GO-Scripting/main/rawetrip/otherP/essentials.lua",
-  
-  aviable = false
 },
